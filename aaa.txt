@@ -1,0 +1,9061 @@
+<table><table border="1" width="100%" cellpadding="3" cellspacing="0"><tr>
+  <th bgcolor="#336600" width="4%"><font face="Arial" color="#ffffff" size="2">S.No.</font> </th>
+  <th bgcolor="#336600" width="24%"><font face="Arial" color="#ffffff" size="2">Country</font> </th>
+ <th bgcolor="#336600" width="36%"><font face="Arial" color="#ffffff" size="2">Values in Rs. Lacs</font> </th>
+<th bgcolor="#336600" width="36%"><font face="Arial" color="#ffffff" size="2">Quntity in thousands</font> </th>
+   </tr></table><table border="1" width="100%" cellpadding="3" cellspacing="0">
+  <tr>
+    <th bgcolor="#336600" width="4%"><font face="Arial" color="#ffffff" size="2"></font> </th>
+	<th bgcolor="#336600" width="24%"><font face="Arial" color="#ffffff" size="2"></font> </th>
+    <th bgcolor="#336600" width="12%"><font face="Arial" color="#ffffff" size="2">2017-2018</font> </th>
+	<th bgcolor="#336600" width="10%"><font face="Arial" color="#ffffff" size="2">
+	2018-2019
+	</font> </th>
+    <th bgcolor="#336600" width="12%"><font face="Arial" color="#ffffff" size="2">%Growth</font> </th>
+    <th bgcolor="#336600" width="12%"><font face="Arial" color="#ffffff" size="2">2017-2018</font> </th>
+	<th bgcolor="#336600" width="10%"><font face="Arial" color="#ffffff" size="2">
+	2018-2019
+	</font> </th>
+    <th bgcolor="#336600" width="12%"><font face="Arial" color="#ffffff" size="2">%Growth</font> </th>
+  </tr>
+
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            1.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            U ARAB EMTS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3,004,106.10
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    4,450,812.82
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    48.16
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            2.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SINGAPORE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3,984,685.82
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    4,125,920.86
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    3.54
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            3.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NETHERLAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,384,562.50
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3,046,063.23
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    120.00
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            4.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CHINA P RP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    973,162.24
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,003,125.36
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    105.84
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            5.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            UNSPECIFIED
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,479,999.02
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,908,184.45
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    28.93
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            6.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            U S A
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,660,676.02
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,693,378.72
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1.97
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            7.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MALAYSIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,046,919.46
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,554,615.17
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    48.49
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            8.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NEPAL
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    990,460.98
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,395,073.20
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    40.85
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            9.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ISRAEL
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    678,134.41
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,120,273.10
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    65.20
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            10.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TURKEY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    602,208.35
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    847,655.06
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    40.76
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            11.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TAIWAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    370,047.17
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    791,408.97
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    113.87
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            12.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BANGLADESH PR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    510,057.79
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    728,939.96
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    42.91
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            13.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            KOREA RP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    495,003.61
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    636,092.37
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    28.50
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            14.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SRI LANKA DSR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    495,210.77
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    600,241.50
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    21.21
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            15.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MAURITIUS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    432,404.90
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    519,153.81
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    20.06
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            16.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MOZAMBIQUE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    384,556.92
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    483,814.52
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    25.81
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            17.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            IRAQ
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    220,823.85
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    478,902.83
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    116.87
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            18.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TANZANIA REP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    470,164.90
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    468,717.24
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -0.31
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            19.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            AUSTRALIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    875,706.78
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    433,509.07
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -50.50
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            20.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            HONG KONG
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    171,585.95
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    409,083.39
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    138.41
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            21.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GIBRALTAR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    187,459.61
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    401,175.87
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    114.01
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            22.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SOUTH AFRICA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    502,942.41
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    398,420.67
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -20.78
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            23.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            KENYA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    395,213.76
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    393,419.52
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -0.45
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            24.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            FRANCE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    227,078.91
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    390,443.95
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    71.94
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            25.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            OMAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    653,613.81
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    377,949.32
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -42.18
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            26.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            JAPAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    557,283.03
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    377,318.78
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -32.29
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            27.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            EGYPT A RP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    123,300.86
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    327,105.90
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    165.29
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            28.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            DJIBOUTI
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    82,425.92
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    308,299.00
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    274.03
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            29.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SAUDI ARAB
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    296,070.91
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    306,382.51
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    3.48
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            30.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BELGIUM
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    125,227.45
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    289,240.82
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    130.97
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            31.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TOGO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    116,676.02
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    267,144.64
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    128.96
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            32.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SPAIN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    16,606.72
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    194,695.20
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1,072.39
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            33.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BRAZIL
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    21,333.13
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    188,348.56
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    782.89
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            34.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            U K
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    242,363.98
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    160,226.45
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -33.89
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            35.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            INDONESIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    121,498.24
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    154,884.78
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    27.48
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            36.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MYANMAR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    42,857.93
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    140,811.30
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    228.55
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            37.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MOROCCO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    20,468.26
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    138,342.72
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    575.89
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            38.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NIGERIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    20,216.16
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    125,916.10
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    522.85
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            39.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BHUTAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    96,464.27
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    113,314.25
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    17.47
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            40.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ITALY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    99,146.30
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    77,011.95
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -22.32
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            41.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            YEMEN REPUBLC
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,653.28
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    70,004.41
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    4,134.27
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            42.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            THAILAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    60,213.74
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    64,206.71
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    6.63
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            43.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            JORDAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    100,366.80
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    61,872.91
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -38.35
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            44.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PHILIPPINES
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    133,570.34
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    60,581.77
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -54.64
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            45.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            VENEZUELA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    58,627.19
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            46.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GHANA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,761.68
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    48,929.05
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1,671.71
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            47.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MALTA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    34,452.71
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    47,182.29
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    36.95
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            48.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BAHARAIN IS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    10,063.60
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    45,622.22
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    353.34
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            49.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            QATAR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    39,387.96
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    43,782.43
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    11.16
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            50.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            VIRGIN IS US
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    26,316.80
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            51.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ARGENTINA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    13,881.75
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    20,252.39
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    45.89
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            52.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            UKRAINE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,144.49
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    17,413.95
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1,421.55
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            53.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PAKISTAN IR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    18,415.67
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    16,147.09
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -12.32
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            54.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SENEGAL
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    14,547.41
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    15,732.55
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    8.15
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            55.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            IRAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    15,091.41
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    12,582.29
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -16.63
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            56.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MADAGASCAR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    24,735.60
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    12,427.32
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -49.76
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            57.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            C AFRI REP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    12,173.82
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    12,115.75
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -0.48
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            58.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            KUWAIT
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,965.13
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    8,343.65
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    181.39
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            59.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ETHIOPIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    10,426.28
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    7,340.88
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -29.59
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            60.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            COTE D&apos; IVOIRE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    5,759.19
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    6,902.15
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    19.85
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            61.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            VIETNAM SOC REP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    9,552.81
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    6,024.36
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -36.94
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            62.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            RUSSIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    4,316.88
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    4,279.30
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -0.87
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            63.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            UGANDA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,225.87
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    4,119.86
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    85.09
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            64.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CAMEROON
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,469.54
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3,991.08
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    61.61
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            65.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SYRIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,634.44
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3,283.93
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    100.92
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            66.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GUINEA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,914.43
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3,175.44
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    8.96
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            67.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MALDIVES
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,714.23
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,220.75
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    29.55
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            68.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SLOVENIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,500.68
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2,002.15
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    33.42
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            69.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            COLOMBIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    928.35
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,874.31
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    101.90
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            70.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ALGERIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,286.40
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,792.43
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    39.34
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            71.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BURKINA FASO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    734.90
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,646.31
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    124.02
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            72.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GUATEMALA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    978.71
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,617.23
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    65.24
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            73.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NEW ZEALAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,276.67
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,576.17
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    23.46
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            74.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CONGO D. REP.
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,705.81
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,574.47
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -7.70
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            75.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SIERRA LEONE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    652.73
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,555.25
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    138.27
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            76.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            LIBERIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    979.02
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,398.35
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    42.83
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            77.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PERU
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    741.72
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,265.71
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    70.65
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            78.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MEXICO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,276.71
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,243.87
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -2.57
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            79.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SOUTH SUDAN 
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    552.59
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,174.41
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    112.53
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            80.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            DOMINIC REP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    487.46
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,095.82
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    124.81
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            81.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BENIN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,082.77
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,013.31
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -6.41
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            82.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SUDAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,128.20
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    999.29
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -11.43
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            83.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CHILE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    870.72
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    992.10
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    13.94
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            84.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PARAGUAY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    385.45
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    820.93
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    112.98
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            85.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            POLAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,229.42
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    811.47
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -34.00
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            86.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GREECE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    535.12
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    805.86
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    50.59
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            87.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CANADA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1,327.14
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    737.13
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -44.46
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            88.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BURUNDI
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    662.17
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    700.05
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    5.72
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            89.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            HAITI
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    441.10
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    666.14
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    51.02
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            90.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ECUADOR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    752.39
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    632.83
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -15.89
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            91.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MAURITANIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    166.23
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    571.61
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    243.87
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            92.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            HONDURAS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    263.68
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    538.75
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    104.32
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            93.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            LEBANON
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    192.39
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    525.56
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    173.18
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            94.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            COSTA RICA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    331.55
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    452.83
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    36.58
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            95.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            RWANDA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    430.26
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    444.59
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    3.33
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            96.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            AFGHANISTAN TIS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    287.10
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    415.54
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    44.74
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            97.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ROMANIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    303.00
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    398.12
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    31.39
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            98.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            FIJI IS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    383.30
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    344.75
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -10.06
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            99.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            LATVIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    141.60
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    328.98
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    132.34
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            100.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CUBA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    290.16
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    313.61
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    8.08
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            101.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            FINLAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    268.78
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    312.59
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    16.30
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            102.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CONGO P REP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    261.56
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    307.24
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    17.46
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            103.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BULGARIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    283.51
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    304.65
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    7.45
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            104.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            EL SALVADOR
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    142.18
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    298.03
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    109.61
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            105.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GABON
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    25.07
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    290.69
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1,059.46
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            106.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NIGER
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    231.15
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    266.24
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    15.18
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            107.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PANAMA REPUBLIC
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    228.74
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    251.84
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    10.10
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            108.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CROATIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    97.65
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    239.72
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    145.48
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            109.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GAMBIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    93.43
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    232.89
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    149.28
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            110.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MALI
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    278.84
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    230.43
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -17.36
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            111.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ZAMBIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    144.55
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    225.77
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    56.18
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            112.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GEORGIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    81.20
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    215.44
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    165.30
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            113.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GERMANY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    186.76
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    199.28
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    6.71
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            114.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PORTUGAL
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    98.52
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    189.20
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    92.05
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            115.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            LIBYA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    20.48
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    185.16
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    803.91
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            116.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ANGOLA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    442.38
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    170.53
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -61.45
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            117.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NICARAGUA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    263.78
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    163.44
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -38.04
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            118.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TUNISIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    558.91
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    157.67
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -71.79
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            119.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TRINIDAD
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    192.44
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    149.25
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -22.44
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            120.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            URUGUAY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    266.93
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    145.97
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -45.32
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            121.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GUINEA BISSAU
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    126.68
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    139.90
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    10.43
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            122.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CAMBODIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    32.11
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    139.00
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    332.92
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            123.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PUERTO RICO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    76.93
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    111.06
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    44.36
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            124.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MONTENEGRO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    74.15
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    104.49
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    40.92
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            125.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SOMALIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    82.98
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    97.89
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    17.97
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            126.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MALAWI
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    136.06
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    84.17
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -38.14
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            127.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BERMUDA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    83.77
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            128.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SURINAME
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    14.99
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    79.00
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    427.09
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            129.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            GUYANA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    77.49
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    78.58
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1.41
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            130.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SERBIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    131.34
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    78.27
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -40.41
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            131.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            DENMARK
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    409.54
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    68.83
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -83.19
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            132.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NAMIBIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    13.42
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    61.00
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    354.51
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            133.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            AZERBAIJAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    147.87
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    54.72
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -63.00
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            134.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            AUSTRIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    10.45
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    49.31
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    371.72
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            135.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CHAD
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    68.28
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    43.15
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -36.81
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            136.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BELARUS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    48.52
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    38.88
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -19.86
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            137.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CZECH REPUBLIC
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    72.36
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    31.35
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -56.68
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            138.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            PAPUA N GNA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.03
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    28.50
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    95,212.71
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            139.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            HUNGARY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.07
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    27.80
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    40,420.99
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            140.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            LITHUANIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    25.61
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            141.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SWITZERLAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.70
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    24.18
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    3,362.74
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            142.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CAPE VERDE IS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    17.81
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    20.87
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    17.19
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            143.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SEYCHELLES
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    14.37
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    19.84
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    38.13
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            144.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BOLIVIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    13.31
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    17.03
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    27.96
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            145.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MONGOLIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.01
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    15.95
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    157,782.18
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            146.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BRUNEI
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    22.92
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    15.78
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -31.15
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            147.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TURKMENISTAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    15.36
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            148.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            LAO PD RP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    14.90
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            149.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            UZBEKISTAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.03
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    14.46
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    44,246.93
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            150.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SWEDEN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    39.26
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    13.57
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -65.44
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            151.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NORWAY
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.04
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    12.15
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    33,004.63
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            152.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BELIZE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    18.16
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    12.04
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -33.69
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            153.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ST LUCIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    9.93
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    11.40
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    14.70
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            154.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            CYPRUS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    21,829.55
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    9.93
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -99.95
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            155.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BAHAMAS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    7.56
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            156.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            BOTSWANA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.36
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    7.55
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1,974.80
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            157.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ZIMBABWE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1.35
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    7.21
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    433.79
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            158.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ALBANIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    5.21
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            159.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            STATE OF PALEST
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    4.50
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            160.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TIMOR LESTE
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1.17
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            161.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            EQUTL GUINEA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    5.83
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.65
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -88.90
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            162.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            JAMAICA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    3.55
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.27
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -92.47
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            163.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ARUBA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.21
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            164.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NAURU RP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    45.36
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.15
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -99.66
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            165.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            IRELAND
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.01
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.12
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    1,529.58
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            166.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MOLDOVA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.02
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.01
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    -53.09
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            167.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            INSTALLATIONS IN INTERNATIONAL WATERS   
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    22,401.02
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            168.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MICRONESIA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    8.37
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            169.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            DOMINICA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    2.21
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            170.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            AMERI SAMOA
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    9.09
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            171.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            COMOROS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.01
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            172.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            SLOVAK REP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.14
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            173.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            ST VINCENT
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    0.20
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            174.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            TURKS C IS
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    36.03
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            175.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            KOREA DP RP
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    10,744.24
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            176.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            MACAO
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    18.87
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            177.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            NETHERLANDANTIL
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    18.81
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+  <tr>
+  <td style="VERTICAL-ALIGN: top"><font size="2">
+            178.
+</font>             
+</td>
+    
+      <td style="VERTICAL-ALIGN: top"><font size="2">
+            KAZAKHSTAN
+            
+</font> 
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    1.88
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font> 
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+            
+</font>
+</td>
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    
+    &amp;nbsp;
+            
+</font> 
+</td>
+         
+  </tr>
+  
+    
+   <tr><td>&amp;nbsp;</td><td><font size="2"><strong>Total</strong></font></td>
+<td align="right"><font size="2"><strong>
+      24,790,423.32
+      </strong></font></td>
+      <td align="right"><font size="2"><strong>
+      33,547,439.75
+      </strong></font></td>
+      <td align="right"><font size="2"><strong>
+      35.32
+      </strong></font></td>
+      <td>&amp;nbsp;</td><td>&amp;nbsp;</td><td>&amp;nbsp;</td>
+      </tr>
+  <tr>
+  <td style="VERTICAL-ALIGN: top" colspan="2"><font size="2"><b>
+            India&apos;s Total
+</b></font>             
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2"><b>
+             195,651,452.80
+</b></font> 
+</td>
+
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2"><b>
+             230,772,619.38
+</b></font> 
+</td>
+    
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2"><b>
+    
+    17.95
+</b></font> 
+</td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+           
+</font> 
+</td>
+    
+ <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+           
+</font> 
+</td>
+ <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+           
+</font> 
+</td>
+         
+  </tr>
+    <tr>
+  <td style="VERTICAL-ALIGN: top" colspan="2"><font size="2"><b>
+            %Share
+</b></font>             
+</td>
+    
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2"><b>
+             12.6707
+</b></font> 
+</td>
+
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2"><b>
+            14.5370
+</b></font> 
+</td>
+    
+    
+    <td align="right" style="VERTICAL-ALIGN: top"><font size="2"><b>
+    &amp;nbsp;
+    
+</b></font></td>
+   
+<td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+           
+</font> 
+</td>
+    
+ <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+           
+</font> 
+</td>
+ <td align="right" style="VERTICAL-ALIGN: top"><font size="2">
+    &amp;nbsp;
+           
+</font> 
+</td>
+         
+  </tr>
+</table></table>
